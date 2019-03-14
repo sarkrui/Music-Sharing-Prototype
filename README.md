@@ -28,7 +28,7 @@ To improve the aesthetics of the prototype:
 * placing aluminum foyers (area A) underneath the LED strips to diffuse the light evenly (see method 2 and method 3)
 * three methods of transparent jointers for connecting each diffuser were applied ( Image 16). These methods allowed lights emitted from the LED strip to travel inside the diffusers and avoid leaving shadows. However, the second method required glues for connecting parts, which would leave the gluing marks on the acrylics and therefore the third method was introduced. (see figure 3, 4, 5, 6)
 
-###Installation guide
+### Installation guide
 
 #### Specification 
 
