@@ -14,7 +14,7 @@ The aim of this respository is to share how the music-sharing prototype works (s
 
 ### Techniques
 
-![](https://i.imgur.com/LXNbLqv.gif)
+![overview of how the final prototype](https://i.imgur.com/1EhOhZW.gif)
 
 *(An overview of how the final prototype was structured)*
 
