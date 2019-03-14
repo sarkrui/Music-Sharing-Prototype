@@ -41,9 +41,22 @@ To improve the aesthetics of the prototype:
 
 ![image-20190306174023415](https://i.imgur.com/5nFtvyq.png) 
 
-* Boards Manager: NodeMCU 1.0 (**ESP-12E** Module)
-* [USECH340 Driver](http://www.wch.cn/download/CH341SER_MAC_ZIP.html) 
-* More information how to use the NodeMCU board as an Arduino board, [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
+* [USECH340 Driver](http://www.wch.cn/download/CH341SER_MAC_ZIP.html) or download from the [release](https://github.com/sarkrui/Music-Sharing-Prototype/releases/tag/1.1)
+
+#### Settings
+
+* Install ESP8266 with Boards Manager
+  - Install the current upstream Arduino IDE at the 1.8.7 level or later. The current version is at the [Arduino website](http://www.arduino.cc/en/main/software).
+  - Start Arduino and open Preferences window.
+  - Enter `http://arduino.esp8266.com/stable/package_esp8266com_index.json` into *Additional Board Manager URLs*field. You can add multiple URLs, separating them with commas.
+  - Open Boards Manager from Tools > Board menu and install *esp8266* platform (and don't forget to select your ESP8266 board from Tools > Board menu after installation).
+  - ![image-20190314191806022](https://i.imgur.com/MYTImIr.png)
+* Boards Manager: **NodeMCU 1.0 (ESP-12E Module)**
+* Port: **/dev/wcchusbserial1410**
+
+![image-20190314191407658](/Users/p.xing/Library/Application Support/typora-user-images/image-20190314191407658.png)
+
+
 
 #### Dependent libraries
 
