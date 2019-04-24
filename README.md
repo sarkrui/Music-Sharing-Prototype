@@ -1,4 +1,4 @@
-## WQ and I Listening Together
+## Q and I Listening Together
 
 ### Introduction
 
@@ -18,7 +18,7 @@ The aim of this respository is to share how the music-sharing prototype works (s
 
 *(An overview of how the final prototype was structured)*
 
-#### Creative and aesthetics
+#### Creativity and aesthetics
 
 ![M1.1_SISS_Report-2](https://i.imgur.com/PBhvHdR.jpg)
 
@@ -74,5 +74,5 @@ This project only managed to complie with the following libraries and **please d
 
 ### Credits
 
-This was a highly colaborative design project finished with a group of four master students at the TU Eindhoven. The development of the tangible prototype was mainly and solely developed by [@Sark P. XING](https://github.com/sarkrui), and the digital tangible (functional) was implemented by [@OliviervDuuren](https://github.com/OliviervDuuren), an interface where users can add songs through and update the database for the NodeMCU to read wirelessly. The other members of the group, Seji Bernabela and Ward de Groot. They mainly contributed on the GUI interface (demo) development and user research.
+This was a highly colaborative design project finished with a group of four master students at the TU Eindhoven. The development of the tangible prototype was mainly and solely developed by [@Sark P. XING](https://github.com/sarkrui), and the digital tangible (functional) was implemented by [@OliviervDuuren](https://github.com/OliviervDuuren), an interface where users can add songs through and update the database for the NodeMCU to read wirelessly. The other members of the group, Seji Bernabela and Ward de Groot, mainly contributed on the GUI interface (demo) development and user research.
 

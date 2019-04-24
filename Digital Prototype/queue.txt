@@ -1,0 +1,12 @@
+{
+	"position_1":"#003366",
+	"position_2":"#00FFFF"
+	"position_3":"#003366",
+	"position_4":"#FF0000"
+	"position_5":"#00FFFF",
+	"position_6":"#FF0000"
+	"position_7":"#FFFFFF",
+	"position_8":"FFFFFFF"
+	"position_9":"#FFFFFF",
+	"position_10":"#FFFFFF"
+}
